@@ -1,0 +1,23 @@
+selector {
+  property: value;
+}
+
+color:
+font-family:
+margin:
+
+flex = built-in CSS positioning tool
+- allows you to position images more easily
+
+border-radius: 50px
+- 50 or above will turn it into a circle
+
+id is for specific elements want to change once or twice e.g. specific items in an ol
+class is used to change lots of things
+
+analogy: class covers multiple things, one-off change is an id
+
+
+<div> divides the page </div>
+
+add a class to html, then call the class in css
